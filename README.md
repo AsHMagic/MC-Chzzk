@@ -9,7 +9,7 @@
 1.20 최신 다운로드: [1.20](https://github.com/AsHMagic/MC-Chzzk/releases/tag/1.20(1.0.3))
 
 # 설명서
-설명서: [MC-Chzzk 플러그인 사용 설명서](https://chzzkbot.notion.site/MC-Chzzk-c71c150a00c742b0b4f5d9292d423e83)
+설명서: [MC-Chzzk 플러그인 사용 설명서](https://docs.czzk.kr/streaming-bot/MC-Chzzk-s-49fdcc4fa23d451b9e61f86bf5d5e83e)
 
 # 문의
 개인 디스코드: ash_magic
