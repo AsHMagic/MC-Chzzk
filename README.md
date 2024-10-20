@@ -1,5 +1,5 @@
 # MC-Chzzk
-치지직의 채팅, 후원을 마인크래프트로 연동합니다.
+치지직의 채팅, 후원을 마인크래프트와 연동합니다.
 
 # 다운로드
 1.12 최신 다운로드: [1.12](https://github.com/AsHMagic/MC-Chzzk/releases/tag/1.12(1.0.1))
