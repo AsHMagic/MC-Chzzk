@@ -17,7 +17,7 @@
 지원 디스코드 서버: https://discord.gg/7HVSMMYDhz
 
 # 후원 테스트 영상
-1000원 이상 후원 받았을때, 에메랄드 1개를 지급하도록 설정
+1000 치즈를 후원 받았을때, 에메랄드 1개를 지급하도록 설정 했습니다.
 
 https://github.com/AsHMagic/MC-Chzzk/assets/84615219/fb53f7f3-2b4d-4937-9c60-631eb852ae58
 
