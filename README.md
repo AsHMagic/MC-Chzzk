@@ -8,6 +8,8 @@
 
 1.20 최신 다운로드: [1.20](https://github.com/AsHMagic/MC-Chzzk/releases/tag/1.20(1.0.3))
 
+1.21 최신 다운로드: [1.21](https://github.com/AsHMagic/MC-Chzzk/releases/tag/1.21)
+
 # 설명서
 설명서: [MC-Chzzk 플러그인 사용 설명서](https://docs.czzk.kr/streaming-bot/MC-Chzzk-s-deb77ac4c32340a29ec2a45312c6ae92)
 
